@@ -1,3 +1,3 @@
 export default function Page() {
-  return <p>PWLINI Dashboard Page</p>;
+  return <p>WAWANG Dashboard Page</p>;
 }
